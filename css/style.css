@@ -4,11 +4,12 @@
     height: 800px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:flex-end;
     background-color: rgb(31, 79, 124);
-    background-image: url(../images/koruldi.jpg);
+    background-image: url(../images/batumi.jpg);
     opacity: 87%;
-    background-size: cover;    
+    background-size: cover;
+    padding-bottom: 200px;    
 }
 .title{
     font-family: 'Playball', cursive;
