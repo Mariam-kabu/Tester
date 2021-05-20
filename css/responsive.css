@@ -60,7 +60,7 @@
         padding: 7px 20px;
     }
 }
-@media (max-width: 414px){
+/* @media (max-width: 414px){
     /* index page */
     .background-box{
         height: 736px;
@@ -83,4 +83,4 @@
     .background-box{
         height: 568px;
     }
-}
+} */
