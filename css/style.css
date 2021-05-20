@@ -1,72 +1,4 @@
-/* .first-block, .second-block, .third-block{
-    display: flex;
-}
-.image-1{
-    width: 35%;
-    opacity: 87%;
-}
-.image-2{
-    width: 30%;
-    opacity: 87%;
-}
-.image-3{
-    width: 35%;
-    opacity: 87%;
-}
-.image-4{
-    width: 30%;
-    opacity: 87%;
-}
-.image-5{
-    width: 40%;
-    opacity: 87%;
-}
-.image-6{
-    width: 30%;
-    opacity: 87%;
-}
-.image-7{
-    width: 35%;
-    opacity: 87%;
-}
-.image-8{
-    width: 30%;
-    opacity: 87%;
-}
-.image-9{
-    width: 35%;
-    opacity: 87%;
-} */
-/* .background-box{
-    position: relative;
-}
-.background-img{
-    width: 100%;
-    height: auto;
-    opacity: 84%;
-}
-.child-box{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-.title{
-    font-family: 'Playball', cursive;
-    color: rgb(255, 253, 251);
-    font-size: 70px;
-    background-color: rgba(255, 235, 205, 0.61);
-    border-radius: 30%;
-    padding: 10px 40px;
-}
-.title:hover{
-    background-color: rgb(247, 222, 186);
-    transition-timing-function: ease-out;
-}
-.child-box:hover{
-    zoom: 101%;
-    transition-timing-function: ease-out;
-} */
+/* index page */
 .background-box{
     width: 100%;
     height: 800px;
@@ -76,8 +8,7 @@
     background-color: rgb(31, 79, 124);
     background-image: url(../images/koruldi.jpg);
     opacity: 87%;
-    background-size: cover;
-    
+    background-size: cover;    
 }
 .title{
     font-family: 'Playball', cursive;
