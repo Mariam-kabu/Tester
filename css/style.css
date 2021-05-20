@@ -4,9 +4,9 @@
     height: 800px;
     display: flex;
     justify-content: center;
-    align-items:flex-end;
+    align-items: center;
     background-color: rgb(31, 79, 124);
-    background-image: url(../images/batumi.jpg);
+    background-image: url(../images/korduli-1.jpg);
     opacity: 87%;
     background-size: cover;
     padding-bottom: 200px;    
